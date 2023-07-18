@@ -1,0 +1,3 @@
+id,service,User name,Password PPPoE,Service ID,Service name,Quantity,Discount,Start Date,CPE_IP,NAS,Expiration,Full Name,Α.Φ.Μ.,Company,Address,City,ZIP,Country,Phone,Mobile,Email,Κωδικός Σύμβασης,Αξία,RF Code,Comment,,Εταιρεία/Ιδιώτης,Status
+1,165,ag.theodoroi,998488175,26,10M/1M,1,0,20-02-2022,192.168.100.2,ΤΡΙΠΟΛΗ,02/12/23,ΑΛ ΚΑΥΜΕΝΑΚΗΣ & ΜΠΑΚΟΣ Ν.,998488175,ΠΑΡΑΓΩΓΗ ΗΛΕΚΤΡΙΚΟΥ ΡΕΥΜΑΤΟΣ,ΠΑΡΘΕΝΗ,ΤΡΙΠΟΛΗ,22100,Greece,,,,2019-0000011,30,RF21903518000020190000011,,,ΕΤΑΙΡΙΑ,
+2,149,artlinefb1,99900998,26,10M/1M,1,0,20-02-2022,192.168.100.103,ΤΡΙΠΟΛΗ,31/12/23,ΝΤΙΝΗΣ,99900998,ΑΡΤ ΛΑΙΝ ΑΒΕΕ,1ΧΛΜ ΕΟ ΑΡΓΟΥΣ ΝΑΥΠΛΙΟΥ,ΑΡΓΟΣ,21200,Greece,2751062672,,info@artline.gr,2019-0000244,30,RF35903518000020190000244,psw: 99900998,,ΕΤΑΙΡΙΑ,

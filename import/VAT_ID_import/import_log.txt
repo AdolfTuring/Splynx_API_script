@@ -1,0 +1,492 @@
+Customer 11 NOT updated, VAT 4350209179, 404
+Customer 12 NOT updated, VAT 4350209179, 404
+Customer 24 NOT updated, VAT 4350260495, 404
+Customer 28 NOT updated, VAT 4250278928, 404
+Customer 31 NOT updated, VAT 4590267516, 404
+Customer 36 NOT updated, VAT 4570252587, 404
+Customer 37 NOT updated, VAT 4410271110, 404
+Customer 40 NOT updated, VAT 4540263615, 404
+Customer 46 NOT updated, VAT 4880289428, 404
+Customer 3519 NOT updated, VAT 4220305199, 404
+Customer 48 NOT updated, VAT 4250294115, 404
+Customer 51 NOT updated, VAT 4530170416, 404
+Customer 57 NOT updated, VAT 4350271559, 404
+Customer 61 NOT updated, VAT 4030159703, 404
+Customer 68 NOT updated, VAT 4900253479, 404
+Customer 74 NOT updated, VAT 4690252707, 404
+Customer 76 NOT updated, VAT 4110116573, 404
+Customer 77 NOT updated, VAT 4820185678, 404
+Customer 104 NOT updated, VAT 4290270661, 404
+Customer 119 NOT updated, VAT 4310196243, 404
+Customer 120 NOT updated, VAT 4310196243, 404
+Customer 121 NOT updated, VAT 4520257579, 404
+Customer 122 NOT updated, VAT 4520257579, 404
+Customer 123 NOT updated, VAT 4010295329, 404
+Customer 124 NOT updated, VAT 4210155471, 404
+Customer 126 NOT updated, VAT 4510117288, 404
+Customer 127 NOT updated, VAT 4210155471, 404
+Customer 135 NOT updated, VAT 9017995284, 404
+Customer 136 NOT updated, VAT 4760165623, 404
+Customer 145 NOT updated, VAT 4320301080, 404
+Customer 155 NOT updated, VAT 4420103618, 404
+Customer 11 NOT updated, VAT 4350209179, 404
+Customer 12 NOT updated, VAT 4350209179, 404
+Customer 24 NOT updated, VAT 4350260495, 404
+Customer 28 NOT updated, VAT 4250278928, 404
+Customer 31 NOT updated, VAT 4590267516, 404
+Customer 36 NOT updated, VAT 4570252587, 404
+Customer 37 NOT updated, VAT 4410271110, 404
+Customer 40 NOT updated, VAT 4540263615, 404
+Customer 46 NOT updated, VAT 4880289428, 404
+Customer 11 updated, VAT 4350209179
+Customer 12 updated, VAT 4350209179
+Customer 24 updated, VAT 4350260495
+Customer 28 updated, VAT 4250278928
+Customer 31 updated, VAT 4590267516
+Customer 36 updated, VAT 4570252587
+Customer 37 updated, VAT 4410271110
+Customer 40 updated, VAT 4540263615
+Customer 46 updated, VAT 4880289428
+Customer 3519 updated, VAT 4220305199
+Customer 48 updated, VAT 4250294115
+Customer 51 updated, VAT 4530170416
+Customer 57 updated, VAT 4350271559
+Customer 61 updated, VAT 4030159703
+Customer 68 updated, VAT 4900253479
+Customer 74 updated, VAT 4690252707
+Customer 76 updated, VAT 4110116573
+Customer 77 updated, VAT 4820185678
+Customer 104 NOT updated, VAT 4290270661, 404
+Customer 119 updated, VAT 4310196243
+Customer 120 updated, VAT 4310196243
+Customer 121 updated, VAT 4520257579
+Customer 122 updated, VAT 4520257579
+Customer 123 updated, VAT 4010295329
+Customer 124 updated, VAT 4210155471
+Customer 126 updated, VAT 4510117288
+Customer 127 updated, VAT 4210155471
+Customer 135 updated, VAT 9017995284
+Customer 136 updated, VAT 4760165623
+Customer 145 updated, VAT 4320301080
+Customer 155 updated, VAT 4420103618
+Customer 156 updated, VAT 4240237281
+Customer 158 updated, VAT 4260104098
+Customer 159 updated, VAT 4570113516
+Customer 161 updated, VAT 4690270725
+Customer 163 updated, VAT 4320263579
+Customer 165 updated, VAT 4480283417
+Customer 166 updated, VAT 4800290621
+Customer 169 updated, VAT 4920265503
+Customer 173 updated, VAT 4100147836
+Customer 175 updated, VAT 4320172077
+Customer 176 updated, VAT 4110227248
+Customer 178 updated, VAT 4420238323
+Customer 188 updated, VAT 4530238171
+Customer 191 updated, VAT 4530238171
+Customer 192 updated, VAT 4530238171
+Customer 194 updated, VAT 4440283978
+Customer 198 updated, VAT 4750195176
+Customer 203 updated, VAT 4950280174
+Customer 204 updated, VAT 4480183609
+Customer 205 updated, VAT 4480183609
+Customer 206 updated, VAT 4140101330
+Customer 213 updated, VAT 4630264374
+Customer 218 updated, VAT 4350220994
+Customer 219 updated, VAT 4890194766
+Customer 220 updated, VAT 440101120
+Customer 225 updated, VAT 4330261944
+Customer 226 updated, VAT 4330261944
+Customer 257 updated, VAT 4450302056
+Customer 277 updated, VAT 4200225052
+Customer 280 updated, VAT 4280203656
+Customer 281 updated, VAT 4500153277
+Customer 284 updated, VAT 4690254075
+Customer 304 updated, VAT 4120276201
+Customer 325 updated, VAT 4010279497
+Customer 326 updated, VAT 4310213220
+Customer 327 updated, VAT 4230220305
+Customer 328 updated, VAT 4230220305
+Customer 335 updated, VAT 4850261944
+Customer 338 updated, VAT 4470156656
+Customer 339 updated, VAT 4120197357
+Customer 346 updated, VAT 4460189139
+Customer 347 updated, VAT 4520156045
+Customer 348 updated, VAT 4750283683
+Customer 349 updated, VAT 4160102291
+Customer 356 updated, VAT 4960262220
+Customer 365 updated, VAT 4790269882
+Customer 367 updated, VAT 4480227638
+Customer 368 updated, VAT 4480227638
+Customer 369 updated, VAT 4370284137
+Customer 371 updated, VAT 4370284137
+Customer 372 updated, VAT 4110239201
+Customer 373 updated, VAT 4690252558
+Customer 381 updated, VAT 4600229878
+Customer 385 updated, VAT 4040244776
+Customer 392 updated, VAT 4790277422
+Customer 397 updated, VAT 4430288888
+Customer 408 updated, VAT 4880254182
+Customer 409 updated, VAT 4140274624
+Customer 410 updated, VAT 4880254182
+Customer 429 updated, VAT 4430239592
+Customer 435 updated, VAT 4150279570
+Customer 436 NOT updated, VAT 4150279570, 404
+Customer 440 updated, VAT 4090104094
+Customer 442 updated, VAT 4030219523
+Customer 446 updated, VAT 4920132000
+Customer 452 updated, VAT 4410163135
+Customer 453 updated, VAT 4070202391
+Customer 460 updated, VAT 4090109309
+Customer 470 updated, VAT 4590157584
+Customer 474 updated, VAT 4570268211
+Customer 478 updated, VAT 4120176823
+Customer 515 updated, VAT 4880134582
+Customer 537 updated, VAT 4640225746
+Customer 540 updated, VAT 4750204267
+Customer 541 updated, VAT 4740287281
+Customer 552 updated, VAT dev008
+Customer 556 updated, VAT 4650272034
+Customer 570 updated, VAT 4010234674
+Customer 572 updated, VAT 4220204145
+Customer 575 updated, VAT 460168169
+Customer 576 updated, VAT 4460292735
+Customer 577 updated, VAT 4670103193
+Customer 583 updated, VAT 4600241725
+Customer 610 updated, VAT 4830260925
+Customer 611 updated, VAT 4200300517
+Customer 617 updated, VAT 4030219523
+Customer 618 updated, VAT 4600229878
+Customer 619 updated, VAT 4110145655
+Customer 620 updated, VAT 4110145655
+Customer 627 updated, VAT 4430238511
+Customer 630 updated, VAT 4430238511
+Customer 649 updated, VAT 4570268211
+Customer 665 updated, VAT 4830209781
+Customer 674 updated, VAT 4020111797
+Customer 678 updated, VAT 4710188543
+Customer 680 updated, VAT 4260263282
+Customer 681 updated, VAT 4260263282
+Customer 687 updated, VAT 4520279375
+Customer 699 updated, VAT 4300191089
+Customer 703 updated, VAT 4920236777
+Customer 714 updated, VAT 4480272840
+Customer 716 updated, VAT 4620174955
+Customer 720 updated, VAT 4640263937
+Customer 728 updated, VAT 4040182018
+Customer 732 updated, VAT 4120276391
+Customer 736 updated, VAT 4290256660
+Customer 741 updated, VAT 4760256984
+Customer 750 updated, VAT 4140277783
+Customer 752 updated, VAT 4510218870
+Customer 796 updated, VAT 4770293092
+Customer 798 updated, VAT 4510273008
+Customer 802 updated, VAT 4420272918
+Customer 804 updated, VAT 4190276081
+Customer 820 updated, VAT 4450243953
+Customer 825 updated, VAT 4880151834
+Customer 826 updated, VAT 4430239592
+Customer 828 updated, VAT 4050207128
+Customer 829 updated, VAT 4050207158
+Customer 830 updated, VAT 4830257749
+Customer 833 updated, VAT 4060274158
+Customer 836 updated, VAT 4850103617
+Customer 847 updated, VAT 4010279497
+Customer 852 updated, VAT 4470198799
+Customer 860 updated, VAT 4280112774
+Customer 862 updated, VAT 4880268042
+Customer 870 updated, VAT 4380270753
+Customer 874 updated, VAT 479026031
+Customer 878 updated, VAT 4140101330
+Customer 883 updated, VAT 4370251565
+Customer 888 updated, VAT 4120109337
+Customer 895 updated, VAT 4800138093
+Customer 904 updated, VAT 4050266941
+Customer 913 updated, VAT 4430243982
+Customer 920 updated, VAT 4430206617
+Customer 927 updated, VAT 4470210156
+Customer 929 updated, VAT 4240223760
+Customer 951 updated, VAT 4020214971
+Customer 956 updated, VAT 4790202156
+Customer 966 updated, VAT 4620271850
+Customer 971 updated, VAT 4730115567
+Customer 983 updated, VAT 4340112772
+Customer 984 updated, VAT 4340112772
+Customer 1006 updated, VAT 4420219513
+Customer 1018 updated, VAT 4610153761
+Customer 1025 updated, VAT 4180290795
+Customer 1034 updated, VAT 4280256324
+Customer 1036 updated, VAT 46600141690
+Customer 1037 updated, VAT 4270263694
+Customer 1038 updated, VAT 4230182752
+Customer 1042 updated, VAT 4840221230
+Customer 1043 updated, VAT 4720278565
+Customer 1047 updated, VAT 4030228425
+Customer 1048 updated, VAT 4780257962
+Customer 1050 updated, VAT 4780257962
+Customer 1052 updated, VAT 4590290765
+Customer 1069 updated, VAT 4940227509
+Customer 1082 updated, VAT 4410210910
+Customer 1085 updated, VAT 4090234115
+Customer 1086 updated, VAT 4520277270
+Customer 1089 updated, VAT 4290287616
+Customer 1090 updated, VAT 4290287616
+Customer 1091 updated, VAT 4010116566
+Customer 1094 updated, VAT 4320263579
+Customer 1097 updated, VAT 4860191644
+Customer 1116 updated, VAT 4590290849
+Customer 1124 updated, VAT 4840196838
+Customer 1125 updated, VAT 4620147233
+Customer 1126 updated, VAT 4620147233
+Customer 1128 updated, VAT 4680124387
+Customer 1130 updated, VAT 4250210855
+Customer 1133 updated, VAT 4680147719
+Customer 1135 updated, VAT 4640194348
+Customer 1136 updated, VAT 4570218497
+Customer 1137 updated, VAT 4810203366
+Customer 1138 updated, VAT 4280273220
+Customer 1142 updated, VAT 4260117330
+Customer 1152 updated, VAT 4560225783
+Customer 1167 updated, VAT 4720221821
+Customer 1188 updated, VAT 4350146579
+Customer 1189 updated, VAT 4350146579
+Customer 1190 updated, VAT 4350146579
+Customer 1199 updated, VAT 4830104842
+Customer 1215 updated, VAT 4040253249
+Customer 1216 updated, VAT 4740161908
+Customer 1232 updated, VAT 4960262717
+Customer 1233 updated, VAT 4430252991
+Customer 1236 updated, VAT 4480272618
+Customer 1238 updated, VAT 1480141484
+Customer 1244 updated, VAT 4470106586
+Customer 1266 updated, VAT 4010254128
+Customer 1290 updated, VAT 4070285525
+Customer 1293 updated, VAT 4840156535
+Customer 1303 updated, VAT 4510131990
+Customer 1304 updated, VAT 4160218501
+Customer 1317 updated, VAT 4800138093
+Customer 1321 updated, VAT 4470287618
+Customer 1322 updated, VAT 4470287618
+Customer 1332 updated, VAT 4500212776
+Customer 1343 updated, VAT 4710111362
+Customer 1350 updated, VAT 4850103617
+Customer 1356 updated, VAT 4500212776
+Customer 1362 updated, VAT 7330804792
+Customer 1369 updated, VAT 4220291472
+Customer 1371 updated, VAT 4480176330
+Customer 1376 updated, VAT 4180262539
+Customer 1383 updated, VAT 4230285076
+Customer 1384 updated, VAT 4180249262
+Customer 1387 updated, VAT 4350164788
+Customer 1398 updated, VAT 4500128378
+Customer 1408 updated, VAT 4850283419
+Customer 1409 updated, VAT 4630283911
+Customer 1418 updated, VAT 4410265567
+Customer 1482 updated, VAT 4650257480
+Customer 1498 updated, VAT 4750195317
+Customer 1504 updated, VAT mal014
+Customer 1508 updated, VAT 4750209944
+Customer 1519 updated, VAT 4090109309
+Customer 1550 updated, VAT 4780218030
+Customer 1552 updated, VAT 4110224021
+Customer 1559 updated, VAT 4120177060
+Customer 1563 updated, VAT 4210266294
+Customer 1579 updated, VAT 4210266294
+Customer 1606 updated, VAT 4300268291
+Customer 1632 updated, VAT 4310209392
+Customer 1656 updated, VAT 4220265377
+Customer 1657 updated, VAT 4120147824
+Customer 1658 updated, VAT 4880277985
+Customer 1660 updated, VAT 4300289800
+Customer 1666 updated, VAT 4190269722
+Customer 1668 updated, VAT 4190269722
+Customer 1669 updated, VAT 4190269722
+Customer 1671 updated, VAT 4190269722
+Customer 1672 updated, VAT 4190269722
+Customer 1673 updated, VAT 4190269722
+Customer 1674 updated, VAT 4190269722
+Customer 1689 updated, VAT 4410212372
+Customer 1690 updated, VAT 4510260120
+Customer 1694 updated, VAT 4220303707
+Customer 1695 updated, VAT 4220303707
+Customer 1699 updated, VAT 4240216376
+Customer 1714 updated, VAT 40580266481
+Customer 1715 updated, VAT 4080266481
+Customer 1736 updated, VAT 4490264613
+Customer 1945 updated, VAT 4010101303
+Customer 1946 updated, VAT 4010101303
+Customer 1951 updated, VAT 4130254172
+Customer 1955 updated, VAT 4130254172
+Customer 2040 updated, VAT 4260104098
+Customer 2062 updated, VAT 4170237871
+Customer 2109 updated, VAT 4790293767
+Customer 2115 updated, VAT 4040210280
+Customer 2141 updated, VAT 4520106578
+Customer 2159 updated, VAT 4800243604
+Customer 2164 updated, VAT 4120171337
+Customer 2196 updated, VAT 4810277113
+Customer 2200 updated, VAT 4140235450
+Customer 2217 updated, VAT 4750192033
+Customer 2241 updated, VAT 4080143649
+Customer 2269 updated, VAT 4930211380
+Customer 2281 updated, VAT 4040142780
+Customer 2298 updated, VAT 4530275454
+Customer 2299 updated, VAT 4950290629
+Customer 2300 updated, VAT 4950290629
+Customer 2304 updated, VAT 4390196410
+Customer 2309 updated, VAT 4260122165
+Customer 2311 updated, VAT 4500194487
+Customer 2321 updated, VAT 4260117330
+Customer 2324 updated, VAT 4630184986
+Customer 2325 updated, VAT 4630184986
+Customer 2332 updated, VAT 4580227041
+Customer 2336 updated, VAT 4660197825
+Customer 2337 updated, VAT 4460244827
+Customer 2338 updated, VAT 4490264548
+Customer 2339 updated, VAT 4490264548
+Customer 2340 updated, VAT 4550292645
+Customer 2347 updated, VAT 4220273215
+Customer 2348 updated, VAT 6100000000000
+Customer 2358 updated, VAT 4900274566
+Customer 2359 updated, VAT 4900274566
+Customer 2372 updated, VAT 4630215798
+Customer 2385 updated, VAT 4150214569
+Customer 2403 updated, VAT 4920132000
+Customer 2409 updated, VAT 4710177074
+Customer 2412 updated, VAT 4820236703
+Customer 2413 updated, VAT 4260247012
+Customer 2415 updated, VAT 4590134161
+Customer 2421 updated, VAT 4110258102
+Customer 2423 updated, VAT 4270143052
+Customer 2432 updated, VAT 4030231585
+Customer 2438 updated, VAT 4090274095
+Customer 2450 updated, VAT 4610228761
+Customer 2458 updated, VAT 4530213125
+Customer 2459 updated, VAT 4010116566
+Customer 2468 updated, VAT 4180267546
+Customer 2471 updated, VAT 4560189518
+Customer 2476 updated, VAT 4700214689
+Customer 2478 updated, VAT 4580195537
+Customer 3532 updated, VAT 4600184552
+Customer 2483 updated, VAT 4490282052
+Customer 2486 updated, VAT 4700283445
+Customer 2488 updated, VAT 4360281598
+Customer 2490 updated, VAT 4450205309
+Customer 2493 updated, VAT 4270273958
+Customer 2494 updated, VAT 4030274403
+Customer 2503 updated, VAT 4650289210
+Customer 2504 updated, VAT 4650289210
+Customer 2525 updated, VAT 4670293184
+Customer 2543 updated, VAT 4410106571
+Customer 2549 updated, VAT 4230204630
+Customer 2550 updated, VAT 4230204630
+Customer 2551 updated, VAT 4230204630
+Customer 2553 updated, VAT 9039416277
+Customer 2561 updated, VAT 4320282181
+Customer 2572 updated, VAT 4530143041
+Customer 2595 updated, VAT 4190275620
+Customer 2613 updated, VAT 4330229792
+Customer 2625 NOT updated, VAT 4130254172, 404
+Customer 2636 updated, VAT 4550271839
+Customer 2666 updated, VAT 4360130233
+Customer 2673 updated, VAT 4420259709
+Customer 2675 updated, VAT 4790222527
+Customer 2677 updated, VAT 4250343864
+Customer 2681 updated, VAT 4110268796
+Customer 2689 updated, VAT 4680105923
+Customer 2690 NOT updated, VAT 4680105923, 404
+Customer 2691 NOT updated, VAT 4680105923, 404
+Customer 2697 updated, VAT 4050267808
+Customer 2700 updated, VAT 4390168401
+Customer 2701 updated, VAT 4220252201
+Customer 2706 updated, VAT 4530251612
+Customer 2707 updated, VAT 4190236077
+Customer 2709 updated, VAT 4770290064
+Customer 2715 updated, VAT 4700115365
+Customer 2717 updated, VAT 4680159888
+Customer 2719 updated, VAT 4500188109
+Customer 2721 updated, VAT 4470133663
+Customer 2722 updated, VAT 4010149872
+Customer 2724 updated, VAT 4240287484
+Customer 2726 updated, VAT 4230201883
+Customer 2728 updated, VAT 4270276951
+Customer 2740 updated, VAT 4260295904
+Customer 2747 updated, VAT 4730192533
+Customer 2750 updated, VAT 4950112195
+Customer 2774 updated, VAT 4120228491
+Customer 2776 updated, VAT 4120228491
+Customer 2777 updated, VAT 4330268311
+Customer 2779 updated, VAT 4330268311
+Customer 2782 updated, VAT 4420264154
+Customer 2785 updated, VAT 4170253639
+Customer 2786 updated, VAT 4420264154
+Customer 2787 updated, VAT 4430284762
+Customer 2790 updated, VAT 4660187842
+Customer 2795 updated, VAT 4460134465
+Customer 2796 updated, VAT 4630273896
+Customer 2807 updated, VAT 4960173542
+Customer 2811 updated, VAT 4730259100
+Customer 2849 updated, VAT 4690252707
+Customer 2856 updated, VAT 4810301830
+Customer 2857 updated, VAT 4530106576
+Customer 2858 updated, VAT 4530143041
+Customer 2863 updated, VAT 4120168069
+Customer 2866 updated, VAT 4460184734
+Customer 2868 updated, VAT 4940175732
+Customer 2884 updated, VAT 4260221843
+Customer 2886 updated, VAT 4570216756
+Customer 2888 updated, VAT 4190206088
+Customer 2897 updated, VAT 4600119590
+Customer 2904 updated, VAT 4790292454
+Customer 2910 updated, VAT 4680274364
+Customer 2916 updated, VAT 4110113489
+Customer 2919 updated, VAT 4590272938
+Customer 2932 updated, VAT 4740204997
+Customer 2933 updated, VAT 4740204997
+Customer 2935 updated, VAT 4710289234
+Customer 2943 updated, VAT 4010234674
+Customer 2959 updated, VAT 4330294663
+Customer 2983 updated, VAT 4740265766
+Customer 2998 updated, VAT 4960286617
+Customer 3010 updated, VAT 4860276809
+Customer 3012 updated, VAT 9143578269
+Customer 3035 updated, VAT 4100181199
+Customer 3036 updated, VAT 4650189071
+Customer 3038 updated, VAT 4470197767
+Customer 3043 updated, VAT 4350220994
+Customer 3521 updated, VAT 4910232216
+Customer 3082 updated, VAT 4260205457
+Customer 3094 updated, VAT 4270274592
+Customer 3097 updated, VAT 4710289234
+Customer 3098 updated, VAT 4100270141
+Customer 3099 updated, VAT 4100270141
+Customer 3131 updated, VAT 4440277095
+Customer 3158 updated, VAT 4660141690
+Customer 3172 updated, VAT 4260122165
+Customer 3210 updated, VAT 4840189437
+Customer 3217 updated, VAT 4880268042
+Customer 3347 updated, VAT 4190145690
+Customer 3363 updated, VAT 4010295329
+Customer 3417 updated, VAT 4410230249
+Customer 3430 updated, VAT 4480108420
+Customer 3434 updated, VAT 4300195064
+Customer 3439 updated, VAT 4880196466
+Customer 3441 updated, VAT 4880196466
+Customer 3449 updated, VAT 4160256097
+Customer 3452 updated, VAT 4360281598
+Customer 3456 updated, VAT 4360286951
+Customer 3457 updated, VAT 4360286951
+Customer 3458 updated, VAT 4360286951
+Customer 3459 updated, VAT 4290211251
+Customer 3461 updated, VAT 4330260326
+Customer 3462 updated, VAT 4330260326
+Customer 3463 updated, VAT 4330289887
+Customer 3464 updated, VAT 4060276518
+Customer 3469 updated, VAT 4030173712
+Customer 3470 NOT updated, VAT 4030173712, 404
+Customer 3473 updated, VAT 4340274481
+Customer 3474 NOT updated, VAT 4340274481, 404
+Customer 3475 NOT updated, VAT 4340274481, 404
+Customer 3476 updated, VAT 4340274481
+Customer 3478 updated, VAT 4380278061
+Customer 3481 updated, VAT 4330289887
+Customer 3482 NOT updated, VAT 4330289887, 404
