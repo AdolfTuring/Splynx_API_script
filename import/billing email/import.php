@@ -1,6 +1,6 @@
 <?php
 include 'SplynxApi.php';
-$api_url = 'https://domain'; // please set your Splynx URL
+$api_url = 'https://domain/'; // please set your Splynx URL
 $admin_login = 'admin';
 $admin_password = 'pass';
 $api = new SplynxApi($api_url);
