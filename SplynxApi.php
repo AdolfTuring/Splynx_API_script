@@ -1,6 +1,7 @@
 <?php
 
 /**
+ * Changes
  * Splynx API v. 2.0
  * REST API Class
  * Author: Ruslan Malymon (Splynx s.r.o.)
